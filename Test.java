@@ -5,6 +5,7 @@ public class Test {
              System.out.println("Enter User Name:");
               sString userName=sc.next();
              System.out.println("Enter password:");
+              System.out.println("hello");
               String password=sc.next();
             if(userName.equals("saida")&&password.equals("pandu"))
               System.out.println("Login success");
