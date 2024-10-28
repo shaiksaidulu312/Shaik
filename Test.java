@@ -3,7 +3,8 @@ public class Test {
        public static void main(String... args){
           Scanner sc=new Scanner(System.in);
              System.out.println("Enter User Name:");
-              String userName=sc.next();
+              System.out.println("hello");
+              sString userName=sc.next();
              System.out.println("Enter password:");
               String password=sc.next();
             if(userName.equals("saida")&&password.equals("pandu"))
